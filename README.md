@@ -15,7 +15,7 @@
 
 # 2. Team Members (팀원 및 팀 소개)
 | 남윤서 | 김태연A | 이예빈 | 한상아 | 심유진 |
-|:------:|:------:|:------:|:------:|
+|:------:|:------:|:------:|:------:|:------:|
 | <img src="https://avatars.githubusercontent.com/u/158164219?v=4" alt="남윤서" width="150"> | <img src="https://avatars.githubusercontent.com/u/89635061?v=4" alt="김태연A" width="150"> | <img src="https://avatars.githubusercontent.com/u/105144795?v=4" alt="이예빈" width="150"> | <img src="https://avatars.githubusercontent.com/u/89959007?v=4" alt="한상아" width="150"> | <img src="https://avatars.githubusercontent.com/u/204798087?v=4" alt="심유진" width="150"> |
 | FE | FE | FE | FE | FE |
 | [GitHub](https://github.com/ysnam0123) | [GitHub](https://github.com/TYss00) | [GitHub](https://github.com/llyybbb) | [GitHub](https://github.com/hansanga) | [GitHub](https://github.com/youjin430) |
