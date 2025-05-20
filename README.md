@@ -4,7 +4,6 @@
 [서비스 링크](https://clinquant-kangaroo-7d97f3.netlify.app/)
 
 <br/>
-<br/>
 
 # 1. Project Overview (프로젝트 개요)
 - 프로젝트 이름: 트러블 메이커
