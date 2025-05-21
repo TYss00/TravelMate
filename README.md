@@ -18,4 +18,4 @@
 |:------:|:------:|:------:|:------:|:------:|
 | <img src="https://avatars.githubusercontent.com/u/158164219?v=4" alt="남윤서" width="150"> | <img src="https://avatars.githubusercontent.com/u/89635061?v=4" alt="김태연A" width="150"> | <img src="https://avatars.githubusercontent.com/u/105144795?v=4" alt="이예빈" width="150"> | <img src="https://avatars.githubusercontent.com/u/89959007?v=4" alt="한상아" width="150"> | <img src="https://avatars.githubusercontent.com/u/204798087?v=4" alt="심유진" width="150"> |
 | FE | FE | FE | FE | FE |
-| [GitHub](https://github.com/ysnam0123) | [GitHub](https://github.com/TYss00) | [GitHub](https://github.com/llyybbb) | [GitHub](https://github.com/hansanga) | [GitHub](https://github.com/youjin430) |
+| [@ysnam0123](https://github.com/ysnam0123) | [@TYss00](https://github.com/TYss00) | [@llyybbb](https://github.com/llyybbb) | [@hansanga](https://github.com/hansanga) | [@youjin430](https://github.com/youjin430) |
