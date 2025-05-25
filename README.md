@@ -82,6 +82,10 @@
 ![로그인 글쓰기](https://github.com/user-attachments/assets/8215efa1-fa6a-464f-bbf1-9628e96c36cd)
 <br/>
 
+- **댓글쓰기**:
+![ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/097cd348-e82f-4b94-941a-f4552a95a635)
+<br/>
+
 - **사용자 온라인유무 확인**:
 ![스크린샷 2025-05-25 오후 4 56 25](https://github.com/user-attachments/assets/03356705-bcae-4eee-be91-54ce54a8f4b8)
 <br/>
@@ -96,6 +100,16 @@
 
 - **마이페이지 프로필수정**:
 ![마이페이지-정보수정하기](https://github.com/user-attachments/assets/44d59988-67dd-4517-af8e-fbc9125f6927)
+<br/>
+
+- **마이페이지 채널수정**:
+![ezgif com-video-to-gif-converter (2)](https://github.com/user-attachments/assets/2628960d-1ada-4d76-8edc-ecf94701042d)
+
+- **마이페이지에서 채널수정확인**:
+![1-ezgif com-speed](https://github.com/user-attachments/assets/0ca75ec0-59a7-454b-8b3f-ef267164ac06)
+
+- **채널에서 채널수정확인**:
+![2-ezgif com-speed](https://github.com/user-attachments/assets/e3acabbd-1cdf-4eb1-8866-1e10ea1caa37)
 <br/>
 
 - **관리자페이지 채널생성**:
