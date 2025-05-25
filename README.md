@@ -71,7 +71,7 @@
 <br/>
 
 - **회원가입**:
-<img src="https://github.com/user-attachments/assets/387c6dfb-b08d-4f66-b864-03665ecdab34" width="800" />
+<img src="https://github.com/user-attachments/assets/387c6dfb-b08d-4f66-b864-03665ecdab34" width="800" style="display:block; margin-top:8px;" />
 <br/>
 
 - **로그인**:
@@ -84,7 +84,6 @@
 
 - **사용자 온라인유무 확인**:
 ![스크린샷 2025-05-25 오후 4 56 25](https://github.com/user-attachments/assets/03356705-bcae-4eee-be91-54ce54a8f4b8)
-
 <br/>
 
 - **알림확인**:
