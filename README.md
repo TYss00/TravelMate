@@ -71,7 +71,7 @@
 <br/>
 
 - **회원가입**:
-<img src="https://github.com/user-attachments/assets/387c6dfb-b08d-4f66-b864-03665ecdab34" width="800" />
+<img src="https://github.com/user-attachments/assets/387c6dfb-b08d-4f66-b864-03665ecdab34" width="800" align="left"/>
 <br/>
 
 - **로그인**:
