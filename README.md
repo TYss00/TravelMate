@@ -33,7 +33,9 @@
 | FE | FE | FE | FE | FE |
 | [@ysnam0123](https://github.com/ysnam0123) | [@TYss00](https://github.com/TYss00) | [@llyybbb](https://github.com/llyybbb) | [@hansanga](https://github.com/hansanga) | [@youjin430](https://github.com/youjin430) |
 <br/>
+
 ## 2.2 팀원 역할
+
 ![스크린샷 2025-05-20 오후 5 50 19](https://github.com/user-attachments/assets/e62a9bab-e8b4-4258-b673-4899c232a3d7)
 
 <br/>
