@@ -39,7 +39,7 @@
 
 # 3. 주요기능
 - **홈화면**:
-![메인화면-달력](https://github.com/user-attachments/assets/aa8d3c92-c433-4d80-a0f6-08f4964231c0)
+
 홈화면에서는 새로고침을할때마다 배경이바뀐다.
 
 - **로그인 안한 사용자**:
@@ -53,16 +53,45 @@
 - **로그인 안한 사용자 사용자 검색**:
 ![사이드바-검색-사용자](https://github.com/user-attachments/assets/98868d91-a6f6-4410-ba27-a3ee0cc2f02d)
 사용자들을 검색할수있으며 프로필로 갈수있다.
+
 ![사이드바-검색-최근검색삭제](https://github.com/user-attachments/assets/53f1c56f-d448-40e9-9c5e-acb051d11757)
 최근검색기록을 삭제할수있다.
+
+- **다크모드**:
+![다크모드](https://github.com/user-attachments/assets/f5cc3c59-e0c7-43ef-bbe8-1fa5bbc1f5da)
+
+- **채널필터기능**:
+![채널필터기능](https://github.com/user-attachments/assets/1efd22d6-36d3-4dd9-8eb6-afac315510c9)
 
 - **회원가입**:
 
 - **로그인**:
 ![ezgif com-optimize](https://github.com/user-attachments/assets/834b8b8a-7031-4c3c-91aa-73287762c43c)
 
+- **글쓰기**:
+![로그인 글쓰기](https://github.com/user-attachments/assets/8215efa1-fa6a-464f-bbf1-9628e96c36cd)
 
-- **로그인 사용자**:
+- **사용자 온라인유무 확인**:
+![온라인확인](https://github.com/user-attachments/assets/cbba3ed7-e871-4f39-809e-37e8fdbdab4f)
+
+- **알림확인**:
+![알림확인](https://github.com/user-attachments/assets/07f730bf-7172-4f57-80c5-a9fde7972a2e)
+
+- **팔로우, 언팔로우**:
+![팔로우-언팔로우](https://github.com/user-attachments/assets/afbca78b-3d2d-4567-a951-dc83aaeee02f)
+
+- **마이페이지 프로필수정**:
+![마이페이지-정보수정하기](https://github.com/user-attachments/assets/44d59988-67dd-4517-af8e-fbc9125f6927)
+
+- **관리자페이지 채널생성**:
+![관리자 채널 생성](https://github.com/user-attachments/assets/ecc3040e-2f12-40c7-9392-2975b8f6b98f)
+
+- **관리자페이지 채널삭제**:
+![관리자 채널삭제](https://github.com/user-attachments/assets/1e5a354c-7e6a-490b-a971-ea90a877dad5)
+
+- **404페이지**:
+![404페이지](https://github.com/user-attachments/assets/84bf9b01-6dcf-4e2b-8df7-a989a87d7e44)
+
 <br/>
 <br/>
 
