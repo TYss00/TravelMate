@@ -70,14 +70,9 @@
 ![채널필터기능](https://github.com/user-attachments/assets/1efd22d6-36d3-4dd9-8eb6-afac315510c9)
 <br/>
 
-<div align="center">
-
-<strong>회원가입</strong><br/>
-
-<img src="https://github.com/user-attachments/assets/387c6dfb-b08d-4f66-b864-03665ecdab34" width="600"/>
-
-</div>
-
+- **회원가입**:
+![ezgif com-optimize](https://github.com/user-attachments/assets/5a6ca13c-fc68-4624-90cb-7609739e1210)
+<br/>
 
 - **로그인**:
 ![ezgif com-optimize](https://github.com/user-attachments/assets/834b8b8a-7031-4c3c-91aa-73287762c43c)
