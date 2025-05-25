@@ -40,8 +40,29 @@
 # 3. 주요기능
 - **홈화면**:
 ![메인화면-달력](https://github.com/user-attachments/assets/aa8d3c92-c433-4d80-a0f6-08f4964231c0)
-메인화면에서는 오늘의 시간,날씨와 달력을 볼수있다.
+홈화면에서는 새로고침을할때마다 배경이바뀐다.
 
+- **로그인 안한 사용자**:
+![ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/a37fa055-3d94-4d53-a4ad-198eb18d68d2)
+홈화면에서 여행이야기를 누르면 로그인 안한사용자는 채널과 검색기능을 사용할수있다.
+
+- **로그인 안한 사용자 채널 검색**:
+![사이드바-검색-게시글](https://github.com/user-attachments/assets/900c6d97-009b-439a-b428-4cda83a6c26d)
+채널을 검색할수있다.
+
+- **로그인 안한 사용자 사용자 검색**:
+![사이드바-검색-사용자](https://github.com/user-attachments/assets/98868d91-a6f6-4410-ba27-a3ee0cc2f02d)
+사용자들을 검색할수있으며 프로필로 갈수있다.
+![사이드바-검색-최근검색삭제](https://github.com/user-attachments/assets/53f1c56f-d448-40e9-9c5e-acb051d11757)
+최근검색기록을 삭제할수있다.
+
+- **회원가입**:
+
+- **로그인**:
+![ezgif com-optimize](https://github.com/user-attachments/assets/834b8b8a-7031-4c3c-91aa-73287762c43c)
+
+
+- **로그인 사용자**:
 <br/>
 <br/>
 
