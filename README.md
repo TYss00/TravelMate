@@ -99,7 +99,7 @@
 <br/>
 
 - **관리자페이지 채널생성**:
-![관리자 채널 생성](https://github.com/user-attachments/assets/ecc3040e-2f12-40c7-9392-2975b8f6b98f)
+![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/300bcb56-1461-4653-a613-7374e92c0f87)
 <br/>
 
 - **관리자페이지 채널삭제**:
