@@ -71,7 +71,6 @@
 
 - **회원가입**:
 ![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/387c6dfb-b08d-4f66-b864-03665ecdab34)
-
 <br/>
 
 - **로그인**:
