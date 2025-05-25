@@ -39,7 +39,7 @@
 
 # 3. 주요기능
 - **홈화면**:
-
+https://github.com/user-attachments/assets/556c33f5-e309-4ebf-bd73-5300ab290349
 홈화면에서는 새로고침을할때마다 배경이바뀐다.
 
 - **로그인 안한 사용자**:
@@ -70,7 +70,6 @@
 <br/>
 
 - **회원가입**:
-![회원가입](https://github.com/user-attachments/assets/452e7ed5-0cd8-409c-ad06-74cc27c36d07)
 <br/>
 
 - **로그인**:
