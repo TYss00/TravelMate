@@ -70,6 +70,7 @@
 <br/>
 
 - **회원가입**:
+![회원가입](https://github.com/user-attachments/assets/452e7ed5-0cd8-409c-ad06-74cc27c36d07)
 <br/>
 
 - **로그인**:
@@ -81,7 +82,8 @@
 <br/>
 
 - **사용자 온라인유무 확인**:
-![온라인확인](https://github.com/user-attachments/assets/cbba3ed7-e871-4f39-809e-37e8fdbdab4f)
+![스크린샷 2025-05-25 오후 4 56 25](https://github.com/user-attachments/assets/03356705-bcae-4eee-be91-54ce54a8f4b8)
+
 <br/>
 
 - **알림확인**:
