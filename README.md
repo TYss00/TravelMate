@@ -57,6 +57,7 @@
 사용자들을 검색할수있으며 프로필로 갈수있다.
 <br/>
 
+- **로그인 안한 사용자 최근검색기록삭제**:
 ![사이드바-검색-최근검색삭제](https://github.com/user-attachments/assets/53f1c56f-d448-40e9-9c5e-acb051d11757)
 최근검색기록을 삭제할수있다.
 <br/>
@@ -70,7 +71,7 @@
 <br/>
 
 - **회원가입**:
-<img src="https://github.com/user-attachments/assets/387c6dfb-b08d-4f66-b864-03665ecdab34" width="900" />
+<img src="https://github.com/user-attachments/assets/387c6dfb-b08d-4f66-b864-03665ecdab34" width="800" />
 <br/>
 
 - **로그인**:
@@ -135,3 +136,8 @@
 | <img src="https://github.com/user-attachments/assets/483abc38-ed4d-487c-b43a-3963b33430e6" alt="git" width="100">  | <img src="https://cdn.iconscout.com/icon/free/png-512/free-github-logo-icon-download-in-svg-png-gif-file-formats--badge-devicons-pack-design-development-icons-458293.png?f=webp&w=256" alt="github" width="100"> | <img src="https://github.com/user-attachments/assets/34141eb9-deca-416a-a83f-ff9543cc2f9a" alt="Notion" width="100">| <img src="https://www.darun.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdqddtkvmb%2Fimage%2Fupload%2Fv1728017922%2Fproduction%2Fimages%2Flogos%2Fslack.webp&w=96&q=75" alt="slack" width="100">|
 
 <br/>
+<br/>
+
+# 5. 트러블 슈팅
+![스크린샷 2025-05-20 오후 5 51 11](https://github.com/user-attachments/assets/19f32fde-fc18-43b1-b7d2-429b7eb0b03d)
+![스크린샷 2025-05-20 오후 5 51 16](https://github.com/user-attachments/assets/b7a2add8-dbe1-4d11-9fc8-6a7eb0346d3a)
