@@ -38,89 +38,89 @@
 <br/>
 
 # 3. 주요기능
-- **홈화면**:
+- **홈화면**
 ![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/22344546-4858-473f-ad46-eb29e9637950)
 홈화면에서는 새로고침을할때마다 배경이바뀐다.
 
-- **로그인 안한 사용자**:
+- **로그인 안한 사용자**
 ![ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/a37fa055-3d94-4d53-a4ad-198eb18d68d2)
 홈화면에서 여행이야기를 누르면 로그인 안한사용자는 채널과 검색기능을 사용할수있다.
 <br/>
 
-- **로그인 안한 사용자 채널 검색**:
+- **로그인 안한 사용자 채널 검색**
 ![사이드바-검색-게시글](https://github.com/user-attachments/assets/900c6d97-009b-439a-b428-4cda83a6c26d)
 채널을 검색할수있다.
 <br/>
 
-- **로그인 안한 사용자 사용자 검색**:
+- **로그인 안한 사용자 사용자 검색**
 ![사이드바-검색-사용자](https://github.com/user-attachments/assets/98868d91-a6f6-4410-ba27-a3ee0cc2f02d)
 사용자들을 검색할수있으며 프로필로 갈수있다.
 <br/>
 
-- **로그인 안한 사용자 최근검색기록삭제**:
+- **로그인 안한 사용자 최근검색기록삭제**
 ![사이드바-검색-최근검색삭제](https://github.com/user-attachments/assets/53f1c56f-d448-40e9-9c5e-acb051d11757)
 최근검색기록을 삭제할수있다.
 <br/>
 
-- **다크모드**:
+- **다크모드**
 ![다크모드](https://github.com/user-attachments/assets/f5cc3c59-e0c7-43ef-bbe8-1fa5bbc1f5da)
 <br/>
 
-- **채널필터기능**:
+- **채널필터기능**
 ![채널필터기능](https://github.com/user-attachments/assets/1efd22d6-36d3-4dd9-8eb6-afac315510c9)
 <br/>
 
-- **회원가입**:
+- **회원가입**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/387c6dfb-b08d-4f66-b864-03665ecdab34" width="800" />
 <br/>
 
-- **로그인**:
+- **로그인**
 ![ezgif com-optimize](https://github.com/user-attachments/assets/834b8b8a-7031-4c3c-91aa-73287762c43c)
 <br/>
 
-- **글쓰기**:
+- **글쓰기**
 ![로그인 글쓰기](https://github.com/user-attachments/assets/8215efa1-fa6a-464f-bbf1-9628e96c36cd)
 <br/>
 
-- **댓글쓰기**:
+- **댓글쓰기**
 ![ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/097cd348-e82f-4b94-941a-f4552a95a635)
 <br/>
 
-- **사용자 온라인유무 확인**:
+- **사용자 온라인유무 확인**
 ![스크린샷 2025-05-25 오후 4 56 25](https://github.com/user-attachments/assets/03356705-bcae-4eee-be91-54ce54a8f4b8)
 <br/>
 
-- **알림확인**:
+- **알림확인**
 ![알림확인](https://github.com/user-attachments/assets/07f730bf-7172-4f57-80c5-a9fde7972a2e)
 <br/>
 
-- **팔로우, 언팔로우**:
+- **팔로우, 언팔로우**
 ![팔로우-언팔로우](https://github.com/user-attachments/assets/afbca78b-3d2d-4567-a951-dc83aaeee02f)
 <br/>
 
-- **마이페이지 프로필수정**:
+- **마이페이지 프로필수정**
 ![마이페이지-정보수정하기](https://github.com/user-attachments/assets/44d59988-67dd-4517-af8e-fbc9125f6927)
 <br/>
 
-- **마이페이지 채널수정**:
+- **마이페이지 채널수정**
 ![ezgif com-video-to-gif-converter (2)](https://github.com/user-attachments/assets/2628960d-1ada-4d76-8edc-ecf94701042d)
 
-- **마이페이지에서 채널수정확인**:
+- **마이페이지에서 채널수정확인**
 ![1-ezgif com-speed](https://github.com/user-attachments/assets/0ca75ec0-59a7-454b-8b3f-ef267164ac06)
 
-- **채널에서 채널수정확인**:
+- **채널에서 채널수정확인**
 ![2-ezgif com-speed](https://github.com/user-attachments/assets/e3acabbd-1cdf-4eb1-8866-1e10ea1caa37)
 <br/>
 
-- **관리자페이지 채널생성**:
+- **관리자페이지 채널생성**
 ![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/300bcb56-1461-4653-a613-7374e92c0f87)
 <br/>
 
-- **관리자페이지 채널삭제**:
+- **관리자페이지 채널삭제**
 ![관리자 채널삭제](https://github.com/user-attachments/assets/1e5a354c-7e6a-490b-a971-ea90a877dad5)
 <br/>
 
-- **404페이지**:
+- **404페이지**
 ![404페이지](https://github.com/user-attachments/assets/84bf9b01-6dcf-4e2b-8df7-a989a87d7e44)
 <br/>
 
