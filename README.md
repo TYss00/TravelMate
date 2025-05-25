@@ -11,13 +11,13 @@
 - 트러블 메이커
 
 ## 프로젝트 설명
-- 여행을 일정으로 계획을 찾는 커뮤니티이다.
+- 기존 여행 커뮤니티들은 장소중심으로된 커뮤니티가많다.
+- 실제 여행계획세울때는 몇박몇일, 장소, 비용위주로 알아보므로 일정을 중심으로 장소,비용이 나오도록하였다.
   
 ## 프로젝트 목적
 
-- **바닐라 JavaScript**만을 활용해 **Notion 스타일의 문서 관리 기능**을 갖춘 **SPA 웹 애플리케이션**을 만든다.  
-- **DOM 조작**, **API 연동**, **라우팅 처리** 등 프론트엔드 개발의 기본기를 익히고, **트리 구조의 데이터를 UI에 자연스럽게 표현**하는 경험을 쌓는다.  
-- 직접 구조를 설계하고 구현하는 과정을 통해, **프레임워크에 의존하지 않고도 동작하는 웹 애플리케이션을 만드는 기초 실력**을 키운다.
+- React와 TypeScript를 사용하여 오픈 API를 활용한 검색 서비스를 구현한다.
+- 소프트웨어 서비스를 구현하기 위한 기획-개발-배포를 경험하여 프론트엔드 개발자의 프로젝트 진행 방식을 익힘
 
 ## 개발기간
 - 4/25 ~ 5/19
@@ -48,21 +48,21 @@
 
 # 4. 사용한 기술
 ## 4.1 언어 및 라이브러리
-## 4.1.1 언어
+### 4.1.1 언어
 | React | TypeScript |
 |:-----:|:----------:|
-| <img src="https://simpleicons.org/icons/react.svg" alt="React" width="100"> | <img src="https://simpleicons.org/icons/typescript.svg" alt="TypeScript" width="100"> |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/250px-React_Logo_SVG.svg.png" alt="React" width="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/250px-Typescript.svg.png" alt="TypeScript" width="100"> |
 <br/>
 
-## 4.1.1 라이브러리
+### 4.1.2 라이브러리
 | Tailwindcss | Axios | Zustand |
 |:-----------:|:-----:|:-------:|
-| <img src="https://simpleicons.org/icons/tailwindcss.svg" alt="Tailwindcss" width="100"> | <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FFhrqG%2Fbtsn0D9GtRf%2FEdSXN22Dj3JnQpKKUdZWk0%2Fimg.png" alt="Axios" width="100"> | <img src="https://velog.velcdn.com/images/jwhong135/post/50f0132e-c4c7-4bb9-ad29-d1fde4635fad/image.png" alt="Zustand" width="100"> |
+| <img src="https://velog.velcdn.com/images/js43o/post/3ab8d087-c4f4-46b5-8f65-6d5e1736b58e/image.png" alt="Tailwindcss" width="100"> | <img src="https://blog.kakaocdn.net/dn/BtYd5/btsy6i6iR6d/MaQMnt5wPhrGervuQS6ba1/img.png" alt="Axios" width="100"> | <img src="https://velog.velcdn.com/images/jwhong135/post/50f0132e-c4c7-4bb9-ad29-d1fde4635fad/image.png" alt="Zustand" width="100"> |
 
 
 <br/>
 
-## 4.2 협력도구
+### 4.2 협력도구
 | Git | GitHub | Notion | Slack |
 |:---:|:------:|:------:|:-----:|
 | <img src="https://github.com/user-attachments/assets/483abc38-ed4d-487c-b43a-3963b33430e6" alt="git" width="100">  | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/250px-Font_Awesome_5_brands_github.svg.png" alt="github" width="100"> | <img src="https://github.com/user-attachments/assets/34141eb9-deca-416a-a83f-ff9543cc2f9a" alt="Notion" width="100">| <img src="https://www.darun.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdqddtkvmb%2Fimage%2Fupload%2Fv1728017922%2Fproduction%2Fimages%2Flogos%2Fslack.webp&w=96&q=75" alt="slack" width="100">|
