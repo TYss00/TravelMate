@@ -1,19 +1,19 @@
 ![Group 176](https://github.com/user-attachments/assets/011b2c55-55ac-42d2-bc19-0fd9fe0a6f25)
 
-# 0. Getting Started (시작하기)
-[서비스 링크](https://clinquant-kangaroo-7d97f3.netlify.app/)
+# 0. 시작하기
+## 배포된 사이트
+[트래블 서비스 링크](https://clinquant-kangaroo-7d97f3.netlify.app/)
 <br/>
 
-# 1. Project Overview (프로젝트 개요)
+# 1. 프로젝트 개요
 ## 프로젝트 이름
-- 트러블 메이커
+- 트래블 메이커
 
 ## 프로젝트 설명
 - 기존 여행 커뮤니티들은 장소중심으로된 커뮤니티가많다.
 - 실제 여행계획세울때는 몇박몇일, 장소, 비용위주로 알아보므로 일정을 중심으로 장소,비용이 나오도록하였다.
   
 ## 프로젝트 목적
-
 - React와 TypeScript를 사용하여 오픈 API를 활용한 검색 서비스를 구현한다.
 - 소프트웨어 서비스를 구현하기 위한 기획-개발-배포를 경험하여 프론트엔드 개발자의 프로젝트 진행 방식을 익힘
 
@@ -23,7 +23,7 @@
 <br/>
 <br/>
 
-# 2. Team Members (팀원 및 팀 소개)
+# 2. 팀원 및 팀 소개
 ## 2.1 팀원소개
 | 남윤서 | 김태연A | 이예빈 | 한상아 | 심유진 |
 |:------:|:------:|:------:|:------:|:------:|
@@ -63,6 +63,6 @@
 ### 4.2 협력도구
 | Git | GitHub | Notion | Slack |
 |:---:|:------:|:------:|:-----:|
-| <img src="https://github.com/user-attachments/assets/483abc38-ed4d-487c-b43a-3963b33430e6" alt="git" width="100">  | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/250px-Font_Awesome_5_brands_github.svg.png" alt="github" width="100"> | <img src="https://github.com/user-attachments/assets/34141eb9-deca-416a-a83f-ff9543cc2f9a" alt="Notion" width="100">| <img src="https://www.darun.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdqddtkvmb%2Fimage%2Fupload%2Fv1728017922%2Fproduction%2Fimages%2Flogos%2Fslack.webp&w=96&q=75" alt="slack" width="100">|
+| <img src="https://github.com/user-attachments/assets/483abc38-ed4d-487c-b43a-3963b33430e6" alt="git" width="100">  | <img src="https://cdn.iconscout.com/icon/free/png-512/free-github-logo-icon-download-in-svg-png-gif-file-formats--badge-devicons-pack-design-development-icons-458293.png?f=webp&w=256" alt="github" width="100"> | <img src="https://github.com/user-attachments/assets/34141eb9-deca-416a-a83f-ff9543cc2f9a" alt="Notion" width="100">| <img src="https://www.darun.io/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdqddtkvmb%2Fimage%2Fupload%2Fv1728017922%2Fproduction%2Fimages%2Flogos%2Fslack.webp&w=96&q=75" alt="slack" width="100">|
 
 <br/>
