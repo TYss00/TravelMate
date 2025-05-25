@@ -64,64 +64,80 @@
 
 - **다크모드**
 ![다크모드](https://github.com/user-attachments/assets/f5cc3c59-e0c7-43ef-bbe8-1fa5bbc1f5da)
+다크모드버튼을 누르면 다크모드가 활성화가된다.
 <br/>
 
 - **채널필터기능**
 ![채널필터기능](https://github.com/user-attachments/assets/1efd22d6-36d3-4dd9-8eb6-afac315510c9)
+장소,비용 따로 필터링할수있으며 해당하는 채널게시물만 나온다.
 <br/>
 
 - **회원가입**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/387c6dfb-b08d-4f66-b864-03665ecdab34" width="800" />
+닉네임,이메일,비밀번호,비밀번호확인이있으며 이메일이나 비밀번호확인은 조건에 충족해야 옆에 아이콘이 활성화가된다. 아이디가 중복또는 다른것들의 빈칸이있을경우 애러가 발생한다.
 <br/>
 
 - **로그인**
 ![ezgif com-optimize](https://github.com/user-attachments/assets/834b8b8a-7031-4c3c-91aa-73287762c43c)
+이메일,비밀번호를 입력하며 비밀번호는 비밀번호확인 아이콘을누르면 비밀번호를 확인해볼수있다.
 <br/>
 
 - **글쓰기**
 ![로그인 글쓰기](https://github.com/user-attachments/assets/8215efa1-fa6a-464f-bbf1-9628e96c36cd)
+제목,태그,장소,비용,내용을 적으며 비용에는 숫자이외에는 쓸수없고 태그,장소는 여러개를 쓸수있으며 삭제도할수있다. 이미지는 여러장도 가능하다.
 <br/>
 
 - **댓글쓰기**
 ![ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/097cd348-e82f-4b94-941a-f4552a95a635)
+댓글을쓰면 실시간으로 등록이된다. 좋아요버튼도 누르면 상대에게 알림이가며 취소할수있다.
 <br/>
 
 - **사용자 온라인유무 확인**
 ![스크린샷 2025-05-25 오후 4 56 25](https://github.com/user-attachments/assets/03356705-bcae-4eee-be91-54ce54a8f4b8)
+상대방이 들어오면 온라인상태가되며 사용자 맨위로 올라오게된다.
 <br/>
 
 - **알림확인**
 ![알림확인](https://github.com/user-attachments/assets/07f730bf-7172-4f57-80c5-a9fde7972a2e)
+상대방이 좋아요를 누르면 알림이뜨며 모두읽음을 누르면 알림활성화아이콘이 꺼진다.
 <br/>
 
 - **팔로우, 언팔로우**
 ![팔로우-언팔로우](https://github.com/user-attachments/assets/afbca78b-3d2d-4567-a951-dc83aaeee02f)
+상대방을 팔로우, 언팔로우할수있다. 상태에따라 팔로우숫자가 변경되며 버튼도 변경이된다.
 <br/>
 
 - **마이페이지 프로필수정**
 ![마이페이지-정보수정하기](https://github.com/user-attachments/assets/44d59988-67dd-4517-af8e-fbc9125f6927)
+프로필을 수정할수있다. 비밀번호변경은 변경시 재로그인시 변경된 비밀번호로 로그인해야하며 다른정보들은 저장버튼을누르면 적용이된다.
 <br/>
 
 - **마이페이지 채널수정**
 ![ezgif com-video-to-gif-converter (2)](https://github.com/user-attachments/assets/2628960d-1ada-4d76-8edc-ecf94701042d)
+마이페이지에서 자신이쓴 글을 수정할수있다.
 
 - **마이페이지에서 채널수정확인**
 ![1-ezgif com-speed](https://github.com/user-attachments/assets/0ca75ec0-59a7-454b-8b3f-ef267164ac06)
+마이페이지에서 자신이쓴 글을 확인할수있으며 수정된내용을 확인할수있다.
 
 - **채널에서 채널수정확인**
 ![2-ezgif com-speed](https://github.com/user-attachments/assets/e3acabbd-1cdf-4eb1-8866-1e10ea1caa37)
+채널에서도 변경사항이 바로보인다.
 <br/>
 
 - **관리자페이지 채널생성**
 ![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/300bcb56-1461-4653-a613-7374e92c0f87)
+관리자는 채널을 생성할수있으며 생성을하면 채널페이지에 채널이 생성이된다.
 <br/>
 
 - **관리자페이지 채널삭제**
 ![관리자 채널삭제](https://github.com/user-attachments/assets/1e5a354c-7e6a-490b-a971-ea90a877dad5)
+관리자는 채널을 삭제할수있으며 삭제를하면 채널페이지에 채널이 삭제가 된다.
 <br/>
 
 - **404페이지**
 ![404페이지](https://github.com/user-attachments/assets/84bf9b01-6dcf-4e2b-8df7-a989a87d7e44)
+등록되지않은 페이지로 이동시 404페이지가 뜨며 누르면 다시 채널페이지로 돌아가게된다.
 <br/>
 
 <br/>
