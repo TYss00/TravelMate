@@ -39,7 +39,7 @@
 
 # 3. 주요기능
 - **홈화면**:
-https://github.com/user-attachments/assets/556c33f5-e309-4ebf-bd73-5300ab290349
+![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/22344546-4858-473f-ad46-eb29e9637950)
 홈화면에서는 새로고침을할때마다 배경이바뀐다.
 
 - **로그인 안한 사용자**:
@@ -70,6 +70,8 @@ https://github.com/user-attachments/assets/556c33f5-e309-4ebf-bd73-5300ab290349
 <br/>
 
 - **회원가입**:
+![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/387c6dfb-b08d-4f66-b864-03665ecdab34)
+
 <br/>
 
 - **로그인**:
