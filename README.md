@@ -1,7 +1,7 @@
 ![Group 176](https://github.com/user-attachments/assets/011b2c55-55ac-42d2-bc19-0fd9fe0a6f25)
 
 # 0. 시작하기
-[트래블 서비스 링크](https://clinquant-kangaroo-7d97f3.netlify.app/)
+[트래블메이커](https://clinquant-kangaroo-7d97f3.netlify.app/)
 
 <br/>
 
