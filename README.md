@@ -71,7 +71,7 @@
 <br/>
 
 - **회원가입**:
-![ezgif com-optimize](https://github.com/user-attachments/assets/5a6ca13c-fc68-4624-90cb-7609739e1210)
+![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e9994c5f-0781-4536-8cdd-f9b8e8aaee04)
 <br/>
 
 - **로그인**:
